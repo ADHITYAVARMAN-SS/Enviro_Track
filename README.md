@@ -1,7 +1,7 @@
 # Enviro_Track
 
 TEAM MEMBERS:
-  1. Uchid K Modi
+  1. Uchit K Modi
   2. Adhityavarman S S 
   3. Ganesh Babu S
   4. Kowshic Shankar R
